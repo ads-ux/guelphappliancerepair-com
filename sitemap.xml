@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://guelphappliancerepair.com/</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://guelphappliancerepair.com/contact.html</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://guelphappliancerepair.com/blog.html</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://guelphappliancerepair.com/privacy.html</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://guelphappliancerepair.com/</loc></url>
+  <url><loc>https://guelphappliancerepair.com/contact</loc></url>
+  <url><loc>https://guelphappliancerepair.com/blog</loc></url>
+  <url><loc>https://guelphappliancerepair.com/privacy</loc></url>
+  <url><loc>https://guelphappliancerepair.com/appliance-repair-cost-guelph</loc></url>
+  <url><loc>https://guelphappliancerepair.com/same-day-appliance-repair-guelph</loc></url>
+  <url><loc>https://guelphappliancerepair.com/washer-repair-guelph</loc></url>
 </urlset>
