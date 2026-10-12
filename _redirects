@@ -11,3 +11,6 @@
 /same-day-appliance-repair-guelph.html   /same-day-appliance-repair-guelph   301!
 /washer-repair-guelph.html   /washer-repair-guelph   301!
 /washer-washing-machine-repair-guelph.html   /washer-washing-machine-repair-guelph   301!
+# from netlify.toml
+/services.html   /#services   302
+https://guelphappliancerepair-com.netlify.app/*   https://guelphappliancerepair.com/:splat   301!
